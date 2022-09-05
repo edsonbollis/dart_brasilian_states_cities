@@ -8,6 +8,7 @@ It is a code to dart programmers that handles Brazilian states and cities.
 ###### Two constants present states and cities per state.
 
 String List states (contains state acronym)
+
 String, List Map cities (contains a list of cities per state acronym)
 
 Use example:
