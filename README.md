@@ -12,10 +12,8 @@ String, List Map cities (contains a list of cities per state acronym)
 
 Use example:
 ```dart
-  
-  satates.forEach((state) => 
-        print(city[state])
-    );
-
+  for (var state in states){
+      print(cities[state]);
+    }
 ```
 The data is present on [https://github.com/Sidon/py-ufbr](https://github.com/Sidon/py-ufbr)
