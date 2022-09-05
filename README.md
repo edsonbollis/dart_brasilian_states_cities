@@ -18,5 +18,5 @@ Use example:
         print(city[state])
     );
 
-
+```
 The data is present on [https://github.com/Sidon/py-ufbr](https://github.com/Sidon/py-ufbr)
