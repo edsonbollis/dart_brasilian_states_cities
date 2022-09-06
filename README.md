@@ -13,6 +13,8 @@ String, List Map cities (contains a list of cities per state acronym)
 
 Use example:
 ```dart
+import 'states_cities.dart';
+
   for (var state in states){
       print(cities[state]);
     }
